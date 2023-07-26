@@ -1,11 +1,11 @@
 # working_custom_weights_mask-Yolov8_image_detection
 
-In this, I have used the custom-trained model for masks. So the model used is best.pt and not yolov8.pt .
-This is an example of using a custom data model in a  program.
+In this, I have used the custom-trained model for masks. So the weight used is best.pt and not yolov8.pt .
+This is an example of using a custom weights developed using a custom model in a  program.
 
-The model was created in the earlier program located here - https://github.com/dishadtu/working_custom_data_yolov8
+The custom model was created in the earlier program located here - https://github.com/dishadtu/working_custom_data_yolov8
 
-model = YOLO("best.pt")
+model = YOLO("best.pt") - This is how we are using the custom weights.
 
 I have also tested with different images to test the various cases of no-mask and mask only.
 
