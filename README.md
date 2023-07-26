@@ -19,7 +19,7 @@ Case 3 - Custom best.pt with custom labels, proper response
 Case 4 - Custom best.pt with default labels, improper response
 
 
-![No Mask]([url_of_image](https://github.com/dishadtu/working_custom_weights_mask-Yolov8_image_detection/blob/main/no-mask.png)https://github.com/dishadtu/working_custom_weights_mask-Yolov8_image_detection/blob/main/no-mask.png)
+![No Mask](https://github.com/dishadtu/working_custom_weights_mask-Yolov8_image_detection/blob/main/no-mask.png)https://github.com/dishadtu/working_custom_weights_mask-Yolov8_image_detection/blob/main/no-mask.png)
 
 
 ![Mask](https://github.com/dishadtu/working_custom_weights_mask-Yolov8_image_detection/blob/main/face-mask-detection.png)
