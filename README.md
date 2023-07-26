@@ -1,7 +1,7 @@
 # working_custom_weights_mask-Yolov8_image_detection
 
 In this, I have used the custom-trained model for masks. So the model used is best.pt and not yolov8.pt .
-This is an example of using in a different program the earlier created custom data model.
+This is an example of using a custom data model in a  program.
 
 model = YOLO("best.pt")
 
